@@ -6,7 +6,6 @@ The program makes use of [yt-dlp](https://github.com/yt-dlp/yt-dlp).
 
 ## Features
 
-- Automatically checks for latest [yt-dlp](https://github.com/yt-dlp/yt-dlp) updates on startup
 - Add multiple url videos to download list
 - Drag&Drop URLs to the main window
 - Auto "Light/Dark" mode
