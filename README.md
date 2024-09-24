@@ -22,8 +22,6 @@ The program makes use of [yt-dlp](https://github.com/yt-dlp/yt-dlp).
 The application is available for download from [HERE](https://github.com/xoxttxox/yaTube/blob/master/Contents/yaTube.zip?raw=true) (_Right Click + Save As_)
 
 ## Screenshots
->*(Not updated. The interface is slightly different and improved).*
-
 ![Screenshots](/Contents/Screenshot_Main_Dark.png)
 ![Screenshots](/Contents/Screenshot_History_Dark.png)
 
